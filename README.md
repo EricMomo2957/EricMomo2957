@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Eric Dominic Momo | Crafting the future of the web with logic and creativity. As an Aspiring Full-Stack Developer, I practice clean code principles and build scalable systems. Always building, always learning, and always ready for the next challenge."
+"Eric Dominic Momo | Crafting the future of the web with logic and creativity. As an Aspiring Full-Stack Developer, I practice clean code principles and build scalable systems. Always building, learning, and always ready for the next chapter."
 
 
 ## 🌐 Socials:
